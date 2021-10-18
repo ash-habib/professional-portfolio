@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.header {
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1 {
+    font-size: 4em;
+}
+.author {
+    color: orange;
+}
+.header-part {
+    width: 50%;
+    padding-left: 5%;
+}
+.link-color {
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(red, black);
+    color: white;
+    border-radius: 20px;
+}
+.header-part img {
+    width: 100%;
+}

@@ -61,7 +61,7 @@ h1 {
     margin: 15px;
 }
 .full-stack {
-    border: 7px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(
 180deg,red,orange);
     border-image-slice: 1;
